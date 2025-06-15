@@ -1,5 +1,5 @@
 # nikhil-demo
 my first repository file
 <br>
-author - nikhil lad
+author - nikhil svnit
 <br>
